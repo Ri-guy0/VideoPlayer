@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Video Player</string>
+    <string name="description_template"> Author: %1$s \n \n Date: %2$s \n \n Description: %3$s</string>
+</resources>
